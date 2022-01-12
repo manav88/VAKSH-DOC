@@ -2,10 +2,9 @@ import numpy as np
 import pandas as pd
 from flask import Flask, request, render_template
 import pickle
-import json
-import joblib
+
 import xgboost
-from joblib import load,dump
+
 
 app = Flask(__name__)
 model =pickle.load(open('vaksh.pkl','rb'))
