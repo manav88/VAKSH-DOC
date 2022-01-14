@@ -1,5 +1,5 @@
-# VAKSH-DOC ( Detection Of Cancer)
- <img src="static/images/lgg.jpg" width=150px;>
+<a href="vaksh-doc.herokuapp.com"><h1>#VAKSH-DOC </h1>( Detection Of Cancer)</a><br>
+ <img src="static/images/lgg.jpg" width=150px;><br>
  Vaksh(वक्ष्ः) Is sanskrit Name of Breast.<br>
  It is Breast Cancer Detection System Using Machine Learning.
  <br>
